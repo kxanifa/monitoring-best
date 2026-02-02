@@ -11,7 +11,7 @@ API_TOKEN = '8464907116:AAHwWKIwoB8jOGSbMxSRm_bFI7fle44UZic'
 
 # DIQQAT: Bu yerga o'zingizning HTML faylingiz joylashgan manzilni qo'ying!
 # Masalan: "https://sizning-loginingiz.github.io/test-bot/index.html"
-WEB_APP_URL = "https://sizning-saytingiz.uz/index.html" 
+WEB_APP_URL = " https://kxanifa.github.io/best-test" 
 
 # Loggingni yoqish
 logging.basicConfig(level=logging.INFO)
